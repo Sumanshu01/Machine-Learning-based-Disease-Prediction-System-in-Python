@@ -7,7 +7,6 @@
 
 > **Machine Learning-Based Multi-Disease Prediction System** using patient symptoms and health metrics. A comprehensive end-to-end solution for predicting Heart Disease, Diabetes, Breast Cancer, and Liver Disease.
 
-![Disease Prediction Dashboard](https://via.placeholder.com/800x400/2ecc71/ffffff?text=Disease+Prediction+Dashboard)
 
 ## 🌟 Features
 
@@ -284,14 +283,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer:** [Your Name]
-- **Email:** your.email@example.com
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
+**Project Maintainer:** Sumanshu Jindal
+- **Email:** sumanshujindal01@gmail.com
+- **GitHub:** [@your-username](https://github.com/Sumanshu01)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/sumanshu-jindal-5451b5310/)
 
 ---
 
 **⭐ Star this repository** if you find it helpful!
 
 *Built with ❤️ for advancing healthcare through machine learning*</content>
-<parameter name="filePath">c:\Users\PC\Desktop\DISEASE\README.md

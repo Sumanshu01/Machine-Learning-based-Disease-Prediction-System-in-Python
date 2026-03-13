@@ -285,8 +285,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Maintainer:** Sumanshu Jindal
 - **Email:** sumanshujindal01@gmail.com
-- **GitHub:** [@your-username](https://github.com/Sumanshu01)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/sumanshu-jindal-5451b5310/)
+- **GitHub:** [@Sumanshu01](https://github.com/Sumanshu01)
+- **LinkedIn:** [Sumanshu Jindal](https://www.linkedin.com/in/sumanshu-jindal-5451b5310/)
 
 ---
 
